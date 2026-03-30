@@ -44,25 +44,6 @@ ALEI replaces the static lead form with a live AI conversation. The moment a pro
 
 > *"Stop losing deals before they start."*
 
-### The Problem It Solves
-
-| Pain Point | Reality |
-|---|---|
-| Slow follow-up | Average lead response time is **42 hours** across industries |
-| Wasted calls | Sales reps spend **50% of their week** on unqualified discovery |
-| No context | Reps start every call blind with **zero buyer information** |
-| Off hours | Leads go cold while your team sleeps |
-
-### Results
-
-| Metric | Impact |
-|---|---|
-| Discovery time | **75% reduction** |
-| Wasted calls | **60% fewer** |
-| Time to close | **2x faster** |
-| Availability | **24/7 — zero off days** |
-
-### Platform Features
 
 - 🎙️ **Voice & text chat** — Native audio via Google Gemini Live API
 - 🧠 **Industry-specific intelligence** — Pre-trained on Real Estate, SaaS, Medical, E-commerce and more
@@ -82,17 +63,6 @@ AI          Google Gemini Live API
 Hosting     Google Cloud Run (Docker)
 Auth        JWT
 ```
-
-### Pricing Tiers
-
-| Tier | Price | Conversations |
-|---|---|---|
-| Individual | $25/mo | 10/mo |
-| Small Business | $50/mo | 50/mo |
-| Enterprise | Custom | Unlimited + CRM |
-| Enterprise+ | Custom | White-label + SLA |
-
----
 
 ## 📂 Other Projects
 
